@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/1/d/c/1dc65c1f65c7a28246f61553de72c1d135e75731.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Akash Pathaikara</h1>
 <h3 align="center">Unraveling the Mysteries of Tropical Cyclones: A Meteorology Researcher's Quest for Knowledge</h3>
 

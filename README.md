@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/akash-met/cover-gif/blob/main/Pursuit_-_A_4K_storm_time-lapse_film(1080p)_1_1.mp4)](https://rishavchanda.io)
+[![MasterHead](https://github.com/akash-met/cover-gif/blob/main/IMG_20230730_162940_188.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Akash Pathaikara</h1>
 <h3 align="center">Unraveling the Mysteries of Tropical Cyclones: A Meteorology Researcher's Quest for Knowledge</h3>
